@@ -1,0 +1,15 @@
+# Dependencies and generated output
+node_modules/
+dist/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+package-lock.json
+
+# Source materials that are not part of the published edition
+docs/
+revista_bariloche_100/
+.curadoria_contatos/
+relatorio_curadoria.txt
+.curate_contact.py
+.finalizar_curadoria.ps1
